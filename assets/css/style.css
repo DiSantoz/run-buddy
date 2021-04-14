@@ -80,13 +80,13 @@ section {
 /* Hero Style End */ 
 
 .hero-form {
+    border: 3px solid #024e76;
     background-color: #fce138;
     padding: 20px;
     width: 500px;
     color: #024e76;
-    border: solid 3px #024e76;
     position: absolute;
-    bottom: 120px;  
+    bottom: 120px;
     right: 140px;
 }
 
@@ -100,7 +100,7 @@ section {
 }
 
 .form-input {
-    border: 1px solide #024e76;
+    border: 1px solid #024e76;
     display: block;
     padding: 7px 15px;
     font-size: 16px;
